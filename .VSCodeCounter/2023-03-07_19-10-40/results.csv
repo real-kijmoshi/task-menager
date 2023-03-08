@@ -1,0 +1,21 @@
+"filename", "language", "JavaScript", "JSON with Comments", "JavaScript JSX", "JSON", "XML", "Markdown", "CSS", "TypeScript", "YAML", "comment", "blank", "total"
+"/Users/kijmoshi/Desktop/projects/task-menager/.eslintrc.json", "JSON with Comments", 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"/Users/kijmoshi/Desktop/projects/task-menager/README.md", "Markdown", 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 16, 39
+"/Users/kijmoshi/Desktop/projects/task-menager/jsconfig.json", "JSON with Comments", 0, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 8
+"/Users/kijmoshi/Desktop/projects/task-menager/next-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 6
+"/Users/kijmoshi/Desktop/projects/task-menager/next.config.js", "JavaScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 7
+"/Users/kijmoshi/Desktop/projects/task-menager/package-lock.json", "JSON", 0, 0, 0, 3514, 0, 0, 0, 0, 0, 0, 1, 3515
+"/Users/kijmoshi/Desktop/projects/task-menager/package.json", "JSON", 0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 1, 25
+"/Users/kijmoshi/Desktop/projects/task-menager/pages/_app.js", "JavaScript", 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5
+"/Users/kijmoshi/Desktop/projects/task-menager/pages/_document.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"/Users/kijmoshi/Desktop/projects/task-menager/pages/components/navbar.jsx", "JavaScript JSX", 0, 0, 21, 0, 0, 0, 0, 0, 0, 0, 2, 23
+"/Users/kijmoshi/Desktop/projects/task-menager/pages/components/task.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/kijmoshi/Desktop/projects/task-menager/pages/index.jsx", "JavaScript JSX", 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 5, 25
+"/Users/kijmoshi/Desktop/projects/task-menager/pnpm-lock.yaml", "YAML", 0, 0, 0, 0, 0, 0, 0, 0, 2001, 0, 299, 2300
+"/Users/kijmoshi/Desktop/projects/task-menager/public/next.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/kijmoshi/Desktop/projects/task-menager/public/thirteen.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/kijmoshi/Desktop/projects/task-menager/public/vercel.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/kijmoshi/Desktop/projects/task-menager/styles/Home.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/kijmoshi/Desktop/projects/task-menager/tsconfig.json", "JSON with Comments", 0, 29, 0, 0, 0, 0, 0, 0, 0, 0, 1, 30
+"/Users/kijmoshi/Desktop/projects/task-menager/🦀.md", "Markdown", 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"Total", "-", 19, 36, 41, 3538, 3, 24, 0, 0, 2001, 9, 336, 6007

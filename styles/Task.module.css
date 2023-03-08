@@ -1,0 +1,8 @@
+.task {
+    border: 1px solid black;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: left;
+    margin-bottom: 30px;
+    padding: 20px;
+}
